@@ -1,11 +1,11 @@
-# SRM GPA Calculator
+# IIS GPA Calculator
 
 A simple and easy to use web application for calculating your SGPA based on credits and grades in courses.
 
 
 ## Introduction
 
-The GPA Calculator is a user-friendly tool that helps you quickly calculate your Semester Grade Point Average (SGPA) following the Grading rules of SRM University. It takes into account the Credits and Grades for each course, and provides you with an accurate SGPA.
+The GPA Calculator is a user-friendly tool that helps you quickly calculate your Semester Grade Point Average (SGPA) following the Grading rules of IIS University. It takes into account the Credits and Grades for each course, and provides you with an accurate SGPA.
 
 ## Features
 
