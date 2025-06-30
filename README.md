@@ -1,4 +1,4 @@
-# IIS GPA Calculator
+# IISU GPA Calculator
 
 A simple and easy to use web application for calculating your SGPA based on credits and grades in courses.
 
