@@ -20,7 +20,7 @@ The GPA Calculator is a user-friendly tool that helps you quickly calculate your
 
 ## Demo
 
-You can try out this GPA Calculator by visiting this [link]([https://gpa-calculator-iota-eight.vercel.app/]). Simply enter your course details and hit the "Calculate GPA" button to see your SGPA.
+You can try out this GPA Calculator by visiting the [link]([https://gpa-calculator-iota-eight.vercel.app/]). Simply enter your course details and hit the "Calculate GPA" button to see your SGPA.
 
 ## Contributing
 Contributions are always welcome! Feel free to contribute to this project by creating a Pull Request.
